@@ -1,7 +1,9 @@
 {
   "name": "disney",
   "scripts": {
-    "dev": "bun run --hot src/index.ts"
+    "dev": "bun run --hot src/index.ts",
+    "fetch": "bun run fetch_waittimes.ts",
+    "update": "./update_waittimes.sh"
   },
   "dependencies": {
     "@hono/zod-validator": "^0.5.0",
