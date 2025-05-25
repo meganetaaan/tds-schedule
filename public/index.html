@@ -217,7 +217,7 @@
   <script>
     async function updateWaitTimes() {
       try {
-        const res = await fetch("/api/waittimes");
+        const res = await fetch("waittimes.json");
         const data = await res.json();
         const map = Object.fromEntries(data.map(a => [a.FacilityID, a]));
         document.querySelectorAll('.waittime[data-id]').forEach(span => {
