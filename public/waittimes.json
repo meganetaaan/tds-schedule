@@ -131,13 +131,13 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "5",
+    "StandbyTime": null,
     "OperatingHoursFromDate": "20250526",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250526",
     "OperatingHoursTo": "21:00",
-    "OperatingStatusCD": "008",
-    "OperatingStatus": "準備中",
+    "OperatingStatusCD": "004",
+    "OperatingStatus": "一時運営中止",
     "SunsetFlg": false,
     "DPAStatusCD": null,
     "DPAStatus": null,
@@ -154,7 +154,7 @@
     "UseLimitFlg": true,
     "UseStandbyTimeStyle": false,
     "OperatingChgFlg": false,
-    "UpdateTime": "8:08",
+    "UpdateTime": "8:39",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
@@ -162,8 +162,8 @@
         "OperatingHoursToDate": "20250526",
         "OperatingHoursTo": "21:00",
         "SunsetFlg": false,
-        "OperatingStatusCD": "008",
-        "OperatingStatus": "準備中",
+        "OperatingStatusCD": "004",
+        "OperatingStatus": "一時運営中止",
         "OperatingChgFlg": false
       }
     ]
@@ -446,7 +446,7 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "5",
+    "StandbyTime": "20",
     "OperatingHoursFromDate": "20250526",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250526",
@@ -469,7 +469,7 @@
     "UseLimitFlg": true,
     "UseStandbyTimeStyle": false,
     "OperatingChgFlg": false,
-    "UpdateTime": "9:00",
+    "UpdateTime": "8:46",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
@@ -964,7 +964,7 @@
     "UseLimitFlg": true,
     "UseStandbyTimeStyle": false,
     "OperatingChgFlg": false,
-    "UpdateTime": "9:00",
+    "UpdateTime": "8:40",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
