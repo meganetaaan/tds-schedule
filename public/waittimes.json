@@ -1164,15 +1164,15 @@
     "FacilityKanaName": "ﾌﾞﾛｰﾌｨｯｼｭ･ﾊﾞﾙｰﾝﾚｰｽ",
     "NewFlg": false,
     "FacilityURLSP": null,
-    "FacilityStatusCD": null,
-    "FacilityStatus": null,
+    "FacilityStatusCD": "003",
+    "FacilityStatus": "運営・公演中止",
     "StandbyTime": null,
-    "OperatingHoursFromDate": "20250526",
-    "OperatingHoursFrom": "9:00",
-    "OperatingHoursToDate": "20250526",
-    "OperatingHoursTo": "21:00",
-    "OperatingStatusCD": "002",
-    "OperatingStatus": "案内終了",
+    "OperatingHoursFromDate": null,
+    "OperatingHoursFrom": null,
+    "OperatingHoursToDate": null,
+    "OperatingHoursTo": null,
+    "OperatingStatusCD": null,
+    "OperatingStatus": null,
     "SunsetFlg": false,
     "DPAStatusCD": null,
     "DPAStatus": null,
@@ -1190,18 +1190,7 @@
     "UseStandbyTimeStyle": false,
     "OperatingChgFlg": false,
     "UpdateTime": "21:00",
-    "operatingHours": [
-      {
-        "OperatingHoursFromDate": "20250526",
-        "OperatingHoursFrom": "9:00",
-        "OperatingHoursToDate": "20250526",
-        "OperatingHoursTo": "21:00",
-        "SunsetFlg": false,
-        "OperatingStatusCD": "002",
-        "OperatingStatus": "案内終了",
-        "OperatingChgFlg": false
-      }
-    ]
+    "operatingHours": null
   },
   {
     "FacilityID": "226",
