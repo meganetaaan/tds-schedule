@@ -851,7 +851,7 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "5",
+    "StandbyTime": "15",
     "OperatingHoursFromDate": "20250527",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250527",
@@ -874,7 +874,7 @@
     "UseLimitFlg": true,
     "UseStandbyTimeStyle": false,
     "OperatingChgFlg": false,
-    "UpdateTime": "9:00",
+    "UpdateTime": "7:10",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250527",
