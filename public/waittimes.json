@@ -536,7 +536,7 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "50",
+    "StandbyTime": "40",
     "OperatingHoursFromDate": "20250526",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250526",
@@ -559,7 +559,7 @@
     "UseLimitFlg": false,
     "UseStandbyTimeStyle": true,
     "OperatingChgFlg": false,
-    "UpdateTime": "14:31",
+    "UpdateTime": "14:54",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
@@ -581,7 +581,7 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "20",
+    "StandbyTime": "15",
     "OperatingHoursFromDate": "20250526",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250526",
@@ -604,7 +604,7 @@
     "UseLimitFlg": false,
     "UseStandbyTimeStyle": true,
     "OperatingChgFlg": false,
-    "UpdateTime": "14:46",
+    "UpdateTime": "14:56",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
@@ -806,7 +806,7 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "100",
+    "StandbyTime": "120",
     "OperatingHoursFromDate": "20250526",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250526",
@@ -829,7 +829,7 @@
     "UseLimitFlg": false,
     "UseStandbyTimeStyle": true,
     "OperatingChgFlg": false,
-    "UpdateTime": "14:36",
+    "UpdateTime": "14:49",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
@@ -941,7 +941,7 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "100",
+    "StandbyTime": "90",
     "OperatingHoursFromDate": "20250526",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250526",
@@ -964,7 +964,7 @@
     "UseLimitFlg": true,
     "UseStandbyTimeStyle": true,
     "OperatingChgFlg": false,
-    "UpdateTime": "13:35",
+    "UpdateTime": "14:55",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
@@ -1189,7 +1189,7 @@
     "UseLimitFlg": false,
     "UseStandbyTimeStyle": true,
     "OperatingChgFlg": false,
-    "UpdateTime": "14:39",
+    "UpdateTime": "14:57",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
@@ -1335,7 +1335,7 @@
     "FacilityURLSP": null,
     "FacilityStatusCD": null,
     "FacilityStatus": null,
-    "StandbyTime": "90",
+    "StandbyTime": "80",
     "OperatingHoursFromDate": "20250526",
     "OperatingHoursFrom": "9:00",
     "OperatingHoursToDate": "20250526",
@@ -1358,7 +1358,7 @@
     "UseLimitFlg": true,
     "UseStandbyTimeStyle": true,
     "OperatingChgFlg": false,
-    "UpdateTime": "14:44",
+    "UpdateTime": "14:54",
     "operatingHours": [
       {
         "OperatingHoursFromDate": "20250526",
